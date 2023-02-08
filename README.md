@@ -5,6 +5,7 @@
   <img src="https://simpleicons.org/icons/github.svg" height="32px">
   <img src="https://simpleicons.org/icons/c.svg" height="32px"> 
   <img src="https://simpleicons.org/icons/rust.svg" height="32px"> 
+  <img src="https://simpleicons.org/icons/python.svg" height="32px"> 
 </p>
 
 ## Skills
