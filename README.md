@@ -32,6 +32,3 @@
 </p>
 
 > 这个语言统计没什么意义，大部分抓的代码应该都是obsidian那我为了方便多端同步传的插件和主题
-
-<!--START_SECTION:waka-->
-<!--END_SECTIONS:waka-->
