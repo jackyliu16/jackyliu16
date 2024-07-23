@@ -19,6 +19,14 @@
 ## Work In Progress
 - [ Collector ](https://github.com/jackyliu16/Collector)
 
+## Some of the tech articles 
+
+- Personal Blog has been remove BC out of date and no time to update themes.
+- Currently only provide personal blog via logseq (publish)
+  - https://jackyliu16.github.io/notes/
+- There are also documents related to the project, but currently haven't been publish via github action.
+  - https://github.com/jackyliu16/Collector/tree/master/blog
+
 ## Statistics　
 <p align="left">
 <img height="190px" src="https://github-readme-stats.vercel.app/api?username=jackyliu16&count_private=true&theme=tokyonight&show_icons=true&line_height=24" align = "center"/>
