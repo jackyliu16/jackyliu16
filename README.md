@@ -12,7 +12,7 @@
 ## Skills
 🦀 lang: Rust, C, java, python
 
-🔨 tools: VS Code, Docker, Shell, (neo)vim, Nix, make, just
+🔨 tools: Docker, Shell, (neo)vim / Vscode, Nix(devOps and TeamEnv), make, just
 
 💻 fields:  Computer Architecture, OS 
 
