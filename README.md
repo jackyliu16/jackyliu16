@@ -26,6 +26,7 @@
 </p>
 
 > This language statistics have no meaning, most of the code caught should be logseq or obsidian, then I want to facilitate multi-channel synchronization of plug-ins and themes
+> 
 > 這個語言統計沒什麼意義，大部分捕捉的代碼應該都是借用他人的主題（被用在靜態站點生成或 LogSeq, Obsidian 同步上）
 
 <a href="https://tjupt.org/promotionlink.php?key=9f531d34ec2ac10c252f252f929802de">
