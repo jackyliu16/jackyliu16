@@ -17,7 +17,7 @@
 💻 fields:  Computer Architecture, OS 
 
 ## Work In Progress
-- [ Collector ](https://github.com/jackyliu16/Collector)
+- [ Collector ](https://github.com/jackyliu16/Collector) Current development progress stalled
 
 ## Some of the tech articles 
 
