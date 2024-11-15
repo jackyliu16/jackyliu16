@@ -18,6 +18,7 @@
 
 ## Work In Progress
 - [ Collector ](https://github.com/jackyliu16/Collector) Current development progress stalled
+- https://github.com/jackyliu16/lglr-controller
 
 ## Some of the tech articles 
 
