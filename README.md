@@ -30,7 +30,7 @@
 
 - CMU15-418/CS149: work in progress but BC Academic Integrity Policy will not publish code.
 - [CS61B](https://github.com/jackyliu16/CS61B-Tutorial)
-- rCore && ArceOS
+- [rCore](https://github.com/LearningOS/lab4-os6-jackyliu16) && ArceOS
 - ... 
 
 
