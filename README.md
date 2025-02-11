@@ -23,7 +23,7 @@
 
 ## Work In Progress
 - [ Collector ](https://github.com/jackyliu16/Collector) **Master** branch development **stalled**, temporarily borrow **hello** branch to implement **simple BF password manager**
-- https://github.com/jackyliu16/lglr-controller Current development progress stalled
+- https://github.com/jackyliu16/lglr-controller Current development progress **stalled**
 
 
 ## Courses/Project Participated 
