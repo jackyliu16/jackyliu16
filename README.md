@@ -22,8 +22,8 @@
 
 
 ## Work In Progress
-- [ Collector ](https://github.com/jackyliu16/Collector) Current development progress stalled
-- https://github.com/jackyliu16/lglr-controller
+- [ Collector ](https://github.com/jackyliu16/Collector) 
+- https://github.com/jackyliu16/lglr-controller Current development progress stalled
 
 
 ## Courses/Project Participated 
