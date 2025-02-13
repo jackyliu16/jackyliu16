@@ -38,8 +38,6 @@
 
 - Currently only provide personal blog via logseq (publish)
   - https://jackyliu16.github.io/notes/
-- There are also documents related to the project, but currently haven't been publish via github action.
-  - https://github.com/jackyliu16/Collector/tree/master/blog
 
 
 ## Statistics　
