@@ -1,5 +1,6 @@
 # About me
 
+> 3/3/2025 Joined a confidential unit to work, due to the adaptation period, suspended for a period of time
 
 ## Interests
 <p align="left">
